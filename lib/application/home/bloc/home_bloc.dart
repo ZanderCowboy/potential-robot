@@ -3,7 +3,6 @@ import 'dart:developer';
 import 'package:bloc/bloc.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 import 'package:injectable/injectable.dart';
-import 'package:potential_robot/application/enter/bloc/enter_bloc.dart';
 import 'package:potential_robot/domain/credit_card/models/credit_card.dart';
 
 part 'home_event.dart';
